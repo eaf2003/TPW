@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="template.xsl"?>
+<NewDataSet>
+  <Table1>
+    <id>43</id>
+    <id_usuario>Jorge24</id_usuario>
+    <password>jorge24</password>
+    <nombre>Jorge Lobos</nombre>
+    <sector>jorge@mimail.com</sector>
+    <interno>4823-2134</interno>
+    <valorHora>5         </valorHora>
+    <dvh>-827825329</dvh>
+    <dvv>23</dvv>
+  </Table1>
+  <Table1>
+    <id>44</id>
+    <id_usuario>Romina123</id_usuario>
+    <password>romina123</password>
+    <nombre>Romina Jersonsky</nombre>
+    <sector>ro123@hotmail.com</sector>
+    <interno>45432-1233</interno>
+    <valorHora>5         </valorHora>
+    <dvh>1061185449</dvh>
+    <dvv>23</dvv>
+  </Table1>
+  <Table1>
+    <id>45</id>
+    <id_usuario>Paula2</id_usuario>
+    <password>paula2</password>
+    <nombre>Paula Lopez2</nombre>
+    <sector>paula123@yahoo.com</sector>
+    <interno>45231-1234</interno>
+    <valorHora>5         </valorHora>
+    <dvh>-1957900821</dvh>
+    <dvv>23</dvv>
+  </Table1>
+  <Table1>
+    <id>47</id>
+    <id_usuario>eaf</id_usuario>
+    <password>eaf7</password>
+    <nombre>Ernesto Farias</nombre>
+    <sector>farias@ar.ibm.com</sector>
+    <interno>155-1651410</interno>
+    <valorHora>1         </valorHora>
+    <dvh>-1261809876</dvh>
+    <dvv>23</dvv>
+  </Table1>
+  <Table1>
+    <id>0</id>
+    <id_usuario>x125214</id_usuario>
+    <password>
+    </password>
+    <nombre>Ernesto Farias</nombre>
+    <sector>farias@ar.ibm.com</sector>
+    <interno>506522222</interno>
+    <permisosNOVAMAS>user</permisosNOVAMAS>
+    <id_rol>2</id_rol>
+    <valorHora>1         </valorHora>
+    <esmanager>false</esmanager>
+    <dvh>1278860537</dvh>
+    <dvv>23</dvv>
+  </Table1>
+  <Table1>
+    <id>48</id>
+    <id_usuario>pepemonje</id_usuario>
+    <password>pepemonje</password>
+    <nombre>Pepe Monje</nombre>
+    <sector>thepepe@oul.com.nl</sector>
+    <interno>4213-1233</interno>
+    <valorHora>1         </valorHora>
+    <dvh>-787580298</dvh>
+    <dvv>23</dvv>
+  </Table1>
+  <Table1>
+    <id>39</id>
+    <id_usuario>usr</id_usuario>
+    <password>usr6</password>
+    <nombre>Usuario pruebas</nombre>
+    <sector>pp@hotmail.com</sector>
+    <interno>452312333</interno>
+    <valorHora>5         </valorHora>
+    <dvh>1741465260</dvh>
+    <dvv>23</dvv>
+  </Table1>
+  <Table1>
+    <id>41</id>
+    <id_usuario>oper</id_usuario>
+    <password>oper</password>
+    <nombre>Usuario Operador</nombre>
+    <sector>operador@mail.com</sector>
+    <interno>123456</interno>
+    <valorHora>1         </valorHora>
+    <dvh>2105351699</dvh>
+    <dvv>23</dvv>
+  </Table1>
+  <Table1>
+    <id>42</id>
+    <id_usuario>admin</id_usuario>
+    <password>admin</password>
+    <nombre>Administrador</nombre>
+    <sector>mail@mail.com</sector>
+    <interno>111111111</interno>
+    <valorHora>1         </valorHora>
+    <dvh>-562551778</dvh>
+    <dvv>23</dvv>
+  </Table1>
+  <Table1>
+    <id>46</id>
+    <id_usuario>Juan23</id_usuario>
+    <password>juan23</password>
+    <nombre>Juan Carlos Acosta</nombre>
+    <sector>juak@gmail.com</sector>
+    <interno>15-5-144332</interno>
+    <valorHora>5         </valorHora>
+    <dvh>947406920</dvh>
+    <dvv>23</dvv>
+  </Table1>
+</NewDataSet>
